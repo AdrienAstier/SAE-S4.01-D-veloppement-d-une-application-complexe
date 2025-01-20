@@ -1,4 +1,4 @@
-# SAE-S4.01-D-veloppement-d-une-application-complexe# SAE-S3.A.01-S3.D.01-Gestion-Salle-entreprise-WEB
+# SAE-S4.01-D-veloppement-d-une-application-complexe
 Petite description du projet
 
 Équipe de dévelopemment :
