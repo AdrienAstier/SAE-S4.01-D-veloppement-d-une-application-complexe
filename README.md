@@ -1,4 +1,4 @@
-# SAE-S4.01-D-veloppement-d-une-application-complexe
+# SAE-S4.01-Developpement-d-une-application-complexe
 Petite description du projet
 
 Équipe de dévelopemment :
