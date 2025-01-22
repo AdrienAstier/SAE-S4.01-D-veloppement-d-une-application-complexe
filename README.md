@@ -13,7 +13,7 @@ Petite description du projet
 <br/>
 
 Répartition des rôles :
-| Membres équipes | ARCIER Noé | ASTIER Adrien | BOULOUARD Lucas | M'TIMA LESNIAK Noah |
+| Membres équipes | ARCIER Noé | ASTIER Adrien | BOULOUARD Lucas | M'TIMA LESNIAK Noa |
 |-----------------|------------|---------------|-----------------|-------------------|
 | **02/12 au 09/12** | Développeur | Développeur | Développeur | *Product Owner* |
 | **10/12 au 17/12** | *Scrum master* | Développeur | Développeur | Développeur |
