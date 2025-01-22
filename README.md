@@ -8,7 +8,7 @@ Petite description du projet
 | ARCIER Noé | noe.arcier@iut-rodez.fr | Arcier Noé |
 | ASTIER Adrien | adrien.astier@iut-rodez.fr | Adrien Astier |
 | BOULOUARD Lucas | lucas.boulouard@iut-rodez.fr | LucasBoulouard |
-| M'TIMA LESNIAK Noah | X | X |
+| M'TIMA LESNIAK Noa | noa.mtimalesniak@iut-rodez.fr | NoixDeXydre |
 
 <br/>
 
